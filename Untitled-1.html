@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script language="JavaScript">
+    function showtime() {
+ if (confirm("是否显示时间？")){
+            var time=new date();
+        var year=date.getYear();
+        var mon=date.getMonth();
+        var day=date.getDay();
+        var times=date.toLocaleString();
+        document.write(year+"年"+mon+"月"+day+"日 "+times);
+ }
+    }
+</script>
+<meta encoding="UTF-8">
+<title>time</title><!-- -->
+</head>
+<body>
+<input name="button" type="button" onClick="showtime()" value="显示当前时间">
+<br>
+</body>
+</html>

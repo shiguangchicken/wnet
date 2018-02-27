@@ -1,0 +1,4 @@
+<br />
+<b>Notice</b>:  Undefined index: fileup in <b>D:\software\xampp\htdocs\myweb\wnet\BaiduOcr\demo\DemoAipOcr.php</b> on line <b>37</b><br />
+<br />
+<b>Warning</b>:  readfile(): Filename cannot be empty in <b>D:\software\xampp\htdocs\myweb\wnet\BaiduOcr\demo\DemoAipOcr.php</b> on line <b>37</b><br />
